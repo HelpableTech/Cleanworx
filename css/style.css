@@ -45,7 +45,7 @@ a:focus {
 .back-to-top {
     position: fixed;
     display: none;
-    background: #FFD662;
+    background: #6ab12b;
     color: #000000;
     width: 44px;
     height: 44px;
@@ -61,7 +61,7 @@ a:focus {
 
 .back-to-top:hover {
     color: #ffffff;
-    background: #7cb038;
+    background: #1cacec;
 }
 
 .back-to-top i {
@@ -76,12 +76,12 @@ a:focus {
     position: relative;
     width: 100%;
     padding: 15px 0 0 0;
-    background: #7cb038;
+    background: #1cacec;
 }
 
 .header.home {
     margin-bottom: 45px;
-    background: #7cb038;
+    background: #1cacec;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -133,7 +133,7 @@ a:focus {
 
 .header .topbar-col a i {
     margin-right: 10px;
-    color: #FFD662;
+    color: #6ab12b;
 }
 
 .header .topbar-social {
@@ -155,7 +155,7 @@ a:focus {
 }
 
 .header .topbar-social a:hover i {
-    color: #FFD662;
+    color: #6ab12b;
 }
 
 .header .dropdown-menu {
@@ -166,7 +166,7 @@ a:focus {
 }
 
 .header .dropdown-menu a.active {
-    color: #FFD662;
+    color: #6ab12b;
 }
 
 @media (min-width: 992px) {
@@ -189,7 +189,7 @@ a:focus {
     
     .header .navbar-light a.nav-link:hover,
     .header .navbar-light a.nav-link.active {
-        color: #FFD662;
+        color: #6ab12b;
     }
 }
 
@@ -233,7 +233,7 @@ a:focus {
     padding: 12px 20px 10px 20px;
     font-size: 13px;
     text-transform: uppercase;
-    color: #7cb038;
+    color: #1cacec;
     border: none;
     border-radius: 5px;
     background: #ffffff;
@@ -242,7 +242,7 @@ a:focus {
 
 .header .navbar .btn:hover {
     color: #000000;
-    background: #FFD662;
+    background: #6ab12b;
 }
 
 .header .navbar .btn i {
@@ -280,7 +280,7 @@ a:focus {
 }
 
 .header .hero h2 span {
-    color: #FFD662;
+    color: #6ab12b;
 }
 
 .header .hero p {
@@ -294,7 +294,7 @@ a:focus {
     padding: 15px 30px;
     font-size: 16px;
     text-transform: uppercase;
-    color: #7cb038;
+    color: #1cacec;
     border: none;
     border-radius: 5px;
     background: #ffffff;
@@ -303,7 +303,7 @@ a:focus {
 
 .header .hero a.btn:hover {
     color: #000000;
-    background: #FFD662;
+    background: #6ab12b;
 }
 
 .header .hero .form {
@@ -350,12 +350,12 @@ a:focus {
     color: #000000;
     border: none;
     border-radius: 5px;
-    background: #FFD662;
+    background: #6ab12b;
     transition: .3s;
 }
 
 .header .hero .form .btn:hover {
-    color: #7cb038;
+    color: #1cacec;
     background: #ffffff;
 }
 
@@ -374,7 +374,7 @@ a:focus {
     margin-bottom: 45px;
     padding: 90px 0;
     text-align: center;
-    background: #FFD662;
+    background: #6ab12b;
 }
 
 .page-header h2 {
@@ -390,7 +390,7 @@ a:focus {
     padding: 0 12px;
     font-size: 22px;
     font-weight: 300;
-    color: #7cb038;
+    color: #1cacec;
 }
 
 .page-header a:hover {
@@ -433,7 +433,7 @@ a:focus {
     height: 3px;
     left: calc(50% - 50px);
     bottom: 0;
-    background: linear-gradient(to left, #FFD662, #7cb038, #FFD662);
+    background: linear-gradient(to left, #6ab12b, #1cacec, #6ab12b);
     border-radius: 100%;
 }
 
@@ -444,7 +444,7 @@ a:focus {
     height: 9px;
     left: calc(50% - 10px);
     bottom: -3px;
-    background: #7cb038;
+    background: #1cacec;
     border-radius: 5px;
 }
 
@@ -454,7 +454,7 @@ a:focus {
 }
 
 .section-header h2 {
-    color: #7cb038;
+    color: #1cacec;
     font-size: 50px;
     font-weight: 100;
 }
@@ -466,7 +466,7 @@ a:focus {
 .section-header.left::before {
     width: 60px;
     left: 0;
-    background: linear-gradient(to left, #FFD662, #7cb038, #7cb038);
+    background: linear-gradient(to left, #6ab12b, #1cacec, #1cacec);
     border-radius: 0 100% 100% 0;
 }
 
@@ -492,7 +492,7 @@ a:focus {
 
 .about .about-text h2 {
     position: relative;
-    color: #7cb038;
+    color: #1cacec;
     font-size: 50px;
     margin-bottom: 15px;
 }
@@ -519,13 +519,13 @@ a:focus {
     color: #000000;
     border: none;
     border-radius: 5px;
-    background: #FFD662;
+    background: #6ab12b;
     transition: .3s;
 }
 
 .about .about-text a.btn:hover {
     color: #ffffff;
-    background: #7cb038;
+    background: #1cacec;
 }
 
 @media (max-width: 767.98px) {
@@ -541,7 +541,7 @@ a:focus {
     color: #000000;
     border: none;
     border-radius: 5px;
-    background: #FFD662;
+    background: #6ab12b;
     transition: .3s;
     margin-top: 25px;
     margin-left: 150px;
@@ -549,7 +549,7 @@ a:focus {
 
 .testimonial2 a.btn:hover {
     color: #ffffff;
-    background: #7cb038;
+    background: #1cacec;
 }
 
 .gallery a.btn {
@@ -559,7 +559,7 @@ a:focus {
     color: #000000;
     border: none;
     border-radius: 5px;
-    background: #FFD662;
+    background: #6ab12b;
     transition: .3s;
     margin-top: 25px;
     margin-left: 150px;
@@ -567,7 +567,7 @@ a:focus {
 
 .gallery a.btn:hover {
     color: #ffffff;
-    background: #7cb038;
+    background: #1cacec;
 }
 
 /*******************************/
@@ -599,7 +599,7 @@ a:focus {
     padding: 25px 15px 15px 15px;
     font-size: 20px;
     font-weight: 300;
-    color: #7cb038;
+    color: #1cacec;
 }
 
 .service .service-item p {
@@ -617,18 +617,18 @@ a:focus {
     color: #000000;
     border: none;
     border-radius: 5px;
-    background: #FFD662;
+    background: #6ab12b;
     transition: .3s;
 }
 
 .service .service-item:hover a.btn {
     color: #ffffff;
-    background: #7cb038;
+    background: #1cacec;
 }
 
 .service .service-item a.btn:hover {
     color: #000000;
-    background: #FFD662;
+    background: #6ab12b;
 }
 
 
@@ -653,13 +653,13 @@ a:focus {
     color: #000000;
     border: none;
     border-radius: 5px;
-    background: #FFD662;
+    background: #6ab12b;
     transition: .3s;
 }
 
 .feature a.btn:hover {
     color: #ffffff;
-    background: #7cb038;
+    background: #1cacec;
 }
 
 .feature .feature-item {
@@ -675,7 +675,7 @@ a:focus {
     margin-bottom: 15px;
     font-size: 22px;
     font-weight: 300;
-    color: #7cb038;
+    color: #1cacec;
 }
 
 .feature .feature-item p {
@@ -725,15 +725,15 @@ a:focus {
 }
 
 .team .team-text:hover {
-    background: #FFD662;
-    border: 1px solid #FFD662;
+    background: #6ab12b;
+    border: 1px solid #6ab12b;
 }
 
 .team .team-text h2 {
     margin-bottom: 5px;
     font-size: 20px;
     font-weight: 400;
-    color: #7cb038;
+    color: #1cacec;
 }
 
 .team .team-text h3 {
@@ -792,7 +792,7 @@ a:focus {
 
 .team .team-social a:hover {
     color: #ffffff;
-    background: #7cb038;
+    background: #1cacec;
 }
 
 
@@ -843,7 +843,7 @@ a:focus {
 .faqs .card-header a {
     display: block;
     width: 100%;
-    color: #7cb038;
+    color: #1cacec;
     font-size: 18px;
     font-weight: 300;
     line-height: 40px;
@@ -855,7 +855,7 @@ a:focus {
     height: 40px;
     margin-right: 10px;
     text-align: center;
-    background: #FFD662;
+    background: #6ab12b;
     color: #000000;
     border-radius: 5px;
 }
@@ -864,7 +864,7 @@ a:focus {
     font-family: 'font Awesome 5 Free';
     content: "\f067";
     float: right;
-    color: #7cb038;
+    color: #1cacec;
     font-size: 12px;
     font-weight: 900;
     transition: .3s;
@@ -874,7 +874,7 @@ a:focus {
     font-family: 'font Awesome 5 Free';
     content: "\f068";
     float: right;
-    color: #7cb038;
+    color: #1cacec;
     font-size: 12px;
     font-weight: 900;
     transition: .3s;
@@ -895,13 +895,13 @@ a:focus {
     color: #000000;
     border: none;
     border-radius: 5px;
-    background: #FFD662;
+    background: #6ab12b;
     transition: .3s;
 }
 
 .faqs a.btn:hover {
     color: #ffffff;
-    background: #7cb038;
+    background: #1cacec;
 }
 
 
@@ -955,14 +955,14 @@ a:focus {
     font-weight:400;
     text-transform: uppercase;
     color: #000000;
-    background: #FFD662;
+    background: #6ab12b;
     border-radius: 5px;
     transition: .3s;
 }
 
 .newsletter .btn:hover {
     color: #ffffff;
-    background: #7cb038;
+    background: #1cacec;
 }
 
 
@@ -998,7 +998,7 @@ a:focus {
     margin-top: -90px;
     padding: 100px 25px 25px 25px;
     text-align: center;
-    background: #FFD662;
+    background: #6ab12b;
     border-radius: 5px;
 }
 
@@ -1034,11 +1034,11 @@ a:focus {
     width: 12px;
     height: 12px;
     border-radius: 50%;
-    background: #FFD662;
+    background: #6ab12b;
 }
 
 .testimonial .owl-dot.active {
-    background: #7cb038;
+    background: #1cacec;
 }
 
 .testimonial2 {
@@ -1070,7 +1070,7 @@ a:focus {
     margin-top: -90px;
     padding: 100px 25px 25px 25px;
     text-align: center;
-    background: #FFD662;
+    background: #6ab12b;
     border-radius: 5px;
 }
 
@@ -1106,11 +1106,11 @@ a:focus {
     width: 12px;
     height: 12px;
     border-radius: 50%;
-    background: #FFD662;
+    background: #6ab12b;
 }
 
 .testimonial2 .owl-dot.active {
-    background: #7cb038;
+    background: #1cacec;
 }
 
 
@@ -1122,7 +1122,7 @@ a:focus {
     position: relative;
     margin: 45px 0;
     padding: 60px 0;
-    background: #7cb038;
+    background: #1cacec;
 }
 
 .call-to-action h2 {
@@ -1147,12 +1147,12 @@ a:focus {
     font-weight:400;
     text-transform: uppercase;
     color: #000000;
-    background: #FFD662;
+    background: #6ab12b;
     border-radius: 5px;
 }
 
 .call-to-action a:hover {
-    color: #FFD662;
+    color: #6ab12b;
     background: #ffffff;
 }
 
@@ -1578,13 +1578,13 @@ a:focus {
     font-size: 14px;
     text-transform: uppercase;
     border-radius: 5px;
-    background: #FFD662;
+    background: #6ab12b;
     transition: .3s;
 }
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-    background: #7cb038;
+    background: #1cacec;
     color: #ffffff;
 }
 
@@ -1600,7 +1600,7 @@ a:focus {
 
 .portfolio .load-more .btn:hover {
     color: #ffffff;
-    background: #7cb038;
+    background: #1cacec;
 }
 
 .portfolio .portfolio-item {
@@ -1661,14 +1661,14 @@ a:focus {
 
 .portfolio .portfolio-item figure .link-preview i,
 .portfolio .portfolio-item figure .link-details i {
-    color: #7cb038;
+    color: #1cacec;
     padding-top: 25px;
     font-size: 30px;
 }
 
 .portfolio .portfolio-item figure .link-preview:hover,
 .portfolio .portfolio-item figure .link-details:hover {
-    background: #7cb038;
+    background: #1cacec;
 }
 
 .portfolio .portfolio-item figure .link-preview:hover i,
@@ -1693,14 +1693,14 @@ a:focus {
     color: #000000;
     font-size: 16px;
     text-transform: uppercase;
-    background: #FFD662;
+    background: #6ab12b;
     border-radius: 0 0 5px 5px;
     transition: .3s;
 }
 
 .portfolio .portfolio-item figure .portfolio-title:hover {
     text-decoration: none;
-    background: #7cb038;
+    background: #1cacec;
     color: #ffffff;
 }
 
@@ -1735,14 +1735,14 @@ a:focus {
     color: #000000;
     font-size: 18px;
     text-transform: uppercase;
-    background: #FFD662;
+    background: #6ab12b;
     border-radius: 5px;
     transition: .3s;
 }
 
 .contact .contact-form .btn:hover {
     color: #ffffff;
-    background: #7cb038;
+    background: #1cacec;
 }
 
 
@@ -1790,7 +1790,7 @@ a:focus {
 }
 
 .sitemap li a:hover {
-    color: #FFD662;
+    color: #6ab12b;
 }
 
 .sitemap h2 {
@@ -1806,7 +1806,7 @@ a:focus {
     position: relative;
     margin-top: 45px;
     padding-top: 90px;
-    background: #7cb038;
+    background: #1cacec;
     color: #ffffff;
     font-weight: 300;
 }
@@ -1825,7 +1825,7 @@ a:focus {
     margin-bottom: 30px;
     font-size: 20px;
     font-weight: 400;
-    color: #FFD662;
+    color: #6ab12b;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
@@ -1858,7 +1858,7 @@ a:focus {
 }
 
 .footer .footer-social a:hover i {
-    color: #FFD662;
+    color: #6ab12b;
 }
 
 .footer .footer-link a {
@@ -1878,7 +1878,7 @@ a:focus {
 }
 
 .footer .footer-link a:hover {
-    color: #FFD662;
+    color: #6ab12b;
 }
 
 .footer .footer-form input {
@@ -1896,7 +1896,7 @@ a:focus {
     font-weight:400;
     text-transform: uppercase;
     color: #000000;
-    background: #FFD662;
+    background: #6ab12b;
     border-radius: 5px;
     transition: .3s;
 }
@@ -1907,7 +1907,7 @@ a:focus {
 
 .footer .footer-form .btn:hover {
     color: #ffffff;
-    background: #7cb038;
+    background: #1cacec;
 }
 
 .footer .footer-menu {
@@ -1930,7 +1930,7 @@ a:focus {
 }
 
 .footer .footer-menu .f-menu a:hover {
-    color: #FFD662;
+    color: #6ab12b;
 }
 
 .footer .footer-menu .f-menu a:last-child {
@@ -1955,7 +1955,7 @@ a:focus {
 }
 
 .footer .copyright p a {
-    color: #FFD662;
+    color: #6ab12b;
     font-weight: 400;
 }
 
